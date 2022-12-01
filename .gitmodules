@@ -1,0 +1,3 @@
+[submodule "packages/BrowserFS"]
+	path = packages/BrowserFS
+	url = https://github.com/jvilk/BrowserFS.git

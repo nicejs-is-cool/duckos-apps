@@ -1,0 +1,22 @@
+{
+  "name": "@duckos-apps/mkpkg",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "ncc build index.ts -o ../../dist/mkpkg"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@duckos-apps/duckpkg": "workspace:^1.0.0",
+    "pako": "^2.1.0"
+  },
+  "devDependencies": {
+    "@types/node": "^18.11.9",
+    "@types/pako": "^2.0.0",
+    "@vercel/ncc": "^0.34.0"
+  }
+}
