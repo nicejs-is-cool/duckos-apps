@@ -9,6 +9,7 @@ This project is triple-licensed under GPL2.0, MIT[^2] and [BrowserFS' license](h
 - `js-untar` (MIT) (again figuring out how to build)
 - [`@duckos-apps/mkpkg`](https://github.com/nicejs-is-cool/duckos-apps/tree/main/packages/mkpkg) (GPL2.0)
 - [`@duckos-apps/snek`](https://github.com/nicejs-is-cool/duckos-apps/tree/main/packages/snek) (GPL2.0)
+- [`@duckos-apps/minichalk`](https://github.com/nicejs-is-cool/duckos-apps/tree/main/packages/minichalk) (MIT)
 ### Cloning
 ```bash
 git clone --recursive https://github.com/nicejs-is-cool/duckos-apps.git
