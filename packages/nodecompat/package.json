@@ -1,0 +1,19 @@
+{
+  "name": "@duckos-apps/nodecompat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "GPL2.0",
+  "dependencies": {
+    "buffer": "~5.1.0",
+    "events": "^3.3.0"
+  },
+  "devDependencies": {
+    "@types/events": "^3.0.0"
+  }
+}

@@ -1,3 +1,9 @@
+/**
+ * window events async iterator
+ * @deprecated {@link api.window.nextEvent} got removed so this doesn't work
+ * @param id Window ID
+ * @returns Async Iterator
+ */
 export function WindowEvents(id: number) {
     return {
         async *[Symbol.asyncIterator]() {

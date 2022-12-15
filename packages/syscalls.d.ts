@@ -73,6 +73,7 @@ declare namespace api {
             environ?: t_environ,
             fd_map?: { [key: number]: string }
         }): Promise<number>;
+        export function kill(pid: number): Promise<void>
     }
     export namespace environ {
         export function set(key: string, value: string): Promise<void>;

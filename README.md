@@ -10,6 +10,7 @@ This project is triple-licensed under GPL2.0, MIT[^2] and [BrowserFS' license](h
 - [`@duckos-apps/mkpkg`](https://github.com/nicejs-is-cool/duckos-apps/tree/main/packages/mkpkg) (GPL2.0)
 - [`@duckos-apps/snek`](https://github.com/nicejs-is-cool/duckos-apps/tree/main/packages/snek) (GPL2.0)
 - [`@duckos-apps/minichalk`](https://github.com/nicejs-is-cool/duckos-apps/tree/main/packages/minichalk) (MIT)
+- [`@duckos-apps/nodecompat`](https://github.com/nicejs-is-cool/duckos-apps/tree/main/packages/nodecompat) (GPL2.0)
 ### Cloning
 ```bash
 git clone --recursive https://github.com/nicejs-is-cool/duckos-apps.git
