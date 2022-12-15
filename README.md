@@ -32,7 +32,7 @@ npx nx build <PACKAGE-NAME>
 [^4] [^5]
 ### Notes
 [^1]: Newer as in excluding [tsh](https://github.com/nicejs-is-cool/tsh) because that one is gonna take a little longer to be added here.
-[^2]: Package `js-untar` is licensed under MIT.
+[^2]: Packages `js-untar` and `@duckos-apps/minichalk` is licensed under MIT.
 [^3]: `--recursive` is not required if you don't want the submodules (`BrowserFS`).
 [^4]: You can use `build:prod` if you want to build for production (*assuming the package supports it)
 [^5]: Packages may have a additional build script so please check their README too.
