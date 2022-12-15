@@ -1,0 +1,12 @@
+{
+  "name": "@duckos-apps/minichalk",
+  "version": "1.0.0",
+  "description": "pretty much a copy and paste from https://github.com/marvinhagemeister/minichalk",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT"
+}
