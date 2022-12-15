@@ -29,3 +29,4 @@ and in the future (not implemented rn) if don't want to load the entire module y
 import { process } from '@duckos-apps/nodecompat/process';
 ```
 (both should be tree-shakeable anyway)
+Though the second approach can be useful if you need to use webpack's `ProvidePlugin`
